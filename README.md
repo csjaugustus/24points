@@ -5,4 +5,4 @@ Instead of just solving 4 numbers, this program also accepts inputs such as "J,Q
 
 * **24.py** is the main file for the solver.
 * **countpos.py** is just a dependency of the main solver file.
-* **usergame.py** is the game itself, which gives the user 4 random cards and prompts the user to solve it before giving a solution.
+* **usergame.py** is the game itself, which gives the user 4 random cards and prompts the user to solve it before giving a solution. (Technically it could generate 4 cards that have no solution, but that never happened before in my tests.)
